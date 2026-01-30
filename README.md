@@ -119,16 +119,16 @@ We developed an **Intelligent Fire Detection and Monitoring System** that uses a
 ## Team & Contribution
 
 This project was developed as part of an academic / hackathon initiative focused on **AI-based IoT safety solutions**.
-Vijaya Pradhap S V - Ideation and AI training.
-Vishali T - Research and development.
-Eesha Ranka - Backend Developer.
-Nausheen Fathima A - Frontend Developer.
-Jagadish - Hardware.
+-  Vijaya Pradhap S V - Ideation and AI training.
+- Vishali T - Research and development.
+- Eesha Ranka - Backend Developer.
+- Nausheen Fathima A - Frontend Developer.
+- Jagadish - Hardware Integration.
 
 ---
 
 
-## 📌 Conclusion
+##  Conclusion
 
 This system transforms fire safety from a **reactive approach to an intelligent, proactive solution** by combining vision, sensing, and automation.
 
