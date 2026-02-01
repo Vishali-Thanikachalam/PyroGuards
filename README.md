@@ -109,7 +109,7 @@ We developed an **Intelligent Fire Detection and Monitoring System** that uses a
 
 ## Project Status
 
-- ML fire detection model implemented w
+- ML fire detection model implemented
 - Sensor integration completed  
 - Dashboard developed  
 - Alerts & logging system functional  
@@ -119,7 +119,7 @@ We developed an **Intelligent Fire Detection and Monitoring System** that uses a
 ## Team & Contribution
 
 This project was developed as part of an academic / hackathon initiative focused on **AI-based IoT safety solutions**.
--  Vijaya Pradhap S V - Ideation and AI training.
+- Vijaya Pradhap S V - Ideation and AI training.
 - Vishali T - Research and development.
 - Eesha Ranka - Backend Developer.
 - Nausheen Fathima A - Frontend Developer.
